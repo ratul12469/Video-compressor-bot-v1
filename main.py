@@ -21,7 +21,7 @@ load_dotenv()
 API_ID = os.environ.get("API_ID")
 API_HASH = os.environ.get("API_HASH")
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
-ADMIN_IDS = [7728424218]  # আপনার অ্যাডমিন আইডি [cite: 2]
+ADMIN_IDS = [6992010963]  # আপনার অ্যাডমিন আইডি [cite: 2]
 
 # লগিং সেটআপ
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
